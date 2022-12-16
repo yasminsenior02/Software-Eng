@@ -1,7 +1,7 @@
 import React from 'react';
 import './UserFound.css';
 function UserFound({ words, headerText}) {
-
+/// collab with Yasmin Senior and Chad toomer
     return (
       <div className="Found-solutions-list">
       

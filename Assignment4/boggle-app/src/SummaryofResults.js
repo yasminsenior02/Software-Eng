@@ -1,6 +1,6 @@
 import React from "react";
 import "./SummaryofResults.css";
-
+/// collab with Yasmin Senior and Chad toomer
 function SummaryofResults({ words, totalTime }) {
   return (
     <div className="Found-solutions-list">

@@ -1,7 +1,7 @@
 const boggle_solver = require("/home/codio/workspace/Boggle_Testing/boggle_solver.js");
 /**
- * Name: Allan Shane Oliver
- * SID: @02940666
+ * Name: Yasmin Senior
+ * SID: @02965903
  * Credit to: softnami.com "Trie Tree with JavaScript" (2020)
  * Credit to: GeeksforGeeks.com "Boggle (Find all possible words in a board
  * of characters) | Set 1" (2020)

@@ -8,7 +8,7 @@ import Select from '@material-ui/core/Select';
 import FormControl from '@material-ui/core/FormControl';
 import './ToggleGameState.css';
 import './App.css';
-
+/// collab with Yasmin Senior and Chad toomer
 
 function ToggleGameState({gameState, setGameState, setSize, setTotalTime}) {
 

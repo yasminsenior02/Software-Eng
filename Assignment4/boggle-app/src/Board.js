@@ -2,7 +2,7 @@ import Grid from "@material-ui/core/Grid";
 import Paper from "@material-ui/core/Paper";
 import React from 'react';
 import './Board.css';
-
+/// collab with Yasmin Senior and Chad toomer
 function Board({board}) {
 
     function tile(id, letter) {

@@ -9,7 +9,7 @@ import ToggleGameState from "./ToggleGameState.js";
 import { GAME_STATE } from "./GameState.js";
 import { RandomGrid } from "./randomGen.js";
 import "./App.css";
-
+/// collab with Yasmin Senior and Chad toomer
 function App() {
   const [allSolutions, setAllSolutions] = useState([]); // solutions from solver
   const [foundSolutions, setFoundSolutions] = useState([]); // found by user
