@@ -1,0 +1,12 @@
+.Board-div {
+  width: 700px;
+  margin: auto;
+  font-size: 40pt;
+  color: rgb(185, 147, 99);
+}
+
+.Tile {
+  text-align: center;
+  line-height: 50pt;
+  vertical-align: middle;
+}
