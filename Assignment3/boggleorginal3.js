@@ -3,7 +3,7 @@
  * @param {string[]} dictionary - The list of available words.
  * @returns {string[]} solutions - Possible solutions to the Boggle board.
  */
-/
+
 exports.findAllSolutions = function(grid, dictionary) {
   let solutions = [];
   if (grid == null || dictionary == null){
